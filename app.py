@@ -84,7 +84,7 @@ def main():
         'Authorization': f'Bearer {token}',
         'X-Unity-Version': '2018.4.11f1',
         'X-GA': 'v1 1',
-        'ReleaseVersion': 'OB50',
+        'ReleaseVersion': 'OB55',
         'Content-Type': 'application/x-www-form-urlencoded',
     }
 
